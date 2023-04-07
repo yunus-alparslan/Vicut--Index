@@ -1,0 +1,9 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\9-Proje\9proje\9proje\bin\Debug\9proje.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\9-Proje\9proje\9proje\bin\Debug\9proje.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\9-Proje\9proje\9proje\bin\Debug\9proje.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\9-Proje\9proje\9proje\obj\Debug\9proje.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\9-Proje\9proje\9proje\obj\Debug\_9proje.Form1.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\9-Proje\9proje\9proje\obj\Debug\_9proje.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\9-Proje\9proje\9proje\obj\Debug\9proje.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\9-Proje\9proje\9proje\obj\Debug\9proje.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\9-Proje\9proje\9proje\obj\Debug\9proje.pdb
